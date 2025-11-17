@@ -1,2 +1,3 @@
-# ashita
-I am a software engineer 
+# ashita naik
+thsi is my first repository 
+author(ashita naik)
